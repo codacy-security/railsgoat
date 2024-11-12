@@ -7,7 +7,7 @@ namespace :server do
        if !(File.exist?(pid_file))
          sh("rails s -d")
        else
-         puts "[+] Server is already running"
+         puts "[+] Server is already running damn it"
        end
      end
 
@@ -17,7 +17,7 @@ namespace :server do
         if File.exist?(pid_file)
           Process.kill("INT", File.read(pid_file).to_i)
         else
-          puts "[-] Server isn't running"
+          puts "[-] Server isn't running damn it"
         end
      end
 end
