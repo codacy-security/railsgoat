@@ -30,6 +30,7 @@ advances
   address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+* Ser do Benfica
 
 ## Our Responsibilities
 
