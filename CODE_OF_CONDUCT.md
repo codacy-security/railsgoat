@@ -31,6 +31,7 @@ advances
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 * Ser do Benfica
+* Ser do Porto
 
 ## Our Responsibilities
 
