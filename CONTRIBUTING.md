@@ -61,6 +61,6 @@ as necessary.
 * Review existing Pull Requests, and testing patches against real
 existing applications that use RailsGoat.
 
-Thanks again for your interest on contributing to the project!
+Thanks again for your interest on contributing to the project! TEST
 
 :heart:
