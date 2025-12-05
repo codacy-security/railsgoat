@@ -4,6 +4,7 @@ RailsGoat is a vulnerable version of the Ruby on Rails Framework from versions 3
 
 *THIS IS JUST A TEST*
 *THIS IS ANOTHER TEST* 
+*ONE MORE TEST*
 
 ## Support
 
